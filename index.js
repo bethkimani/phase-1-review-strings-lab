@@ -1,5 +1,5 @@
 // Write your code in this file!
-// Write your code in this file!
+
 
 const currentUser = 'Grace Hopper';
 const welcomeMessage = `Welcome to Flatbook, ${currentUser}!`;
@@ -8,7 +8,7 @@ const excitedWelcomeMessage = welcomeMessage.toUpperCase();
 
 const shortGreeting = `Welcome, ${currentUser.slice(0, 1)}!`;
 
-// Logging the actual variables instead of their names
-console.log(welcomeMessage);          // Logs the full welcome message
+
+console.log(welcomeMessage);         
 console.log(excitedWelcomeMessage);    
 console.log(shortGreeting);             
